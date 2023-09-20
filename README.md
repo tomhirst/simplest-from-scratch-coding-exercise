@@ -17,7 +17,7 @@ You don't need JavaScript yet.
 Here are the steps to follow, use the code in this repo as a reference:
 
 1. Download [VSCode](https://code.visualstudio.com/download)
-2. New file `index.html`”`
+2. New file `index.html`
 3. Open it in your browser
 4. Lay out a basic webpage, use `<html>`, `<body>`, `<head>` and `<div>` (search what they mean as you go)
 5. Add some text elements, like `<h1>` and `<p>`
